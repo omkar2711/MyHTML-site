@@ -1,3 +1,3 @@
  <h1>Index.html</h1>
 
-  <p>Welcome to the <strong>Index.html</strong> repository! <br> Hello world!  </p>
+  <p>Just to say Hello World! from HTML  </p>
